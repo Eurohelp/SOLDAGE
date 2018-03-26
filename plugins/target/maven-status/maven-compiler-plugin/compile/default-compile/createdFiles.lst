@@ -1,0 +1,13 @@
+es\eurohelp\lod\aldapa\impl\transformation\ejiecalidadaire\CLASSTOKEN.class
+es\eurohelp\lod\aldapa\impl\transformation\ejiecalidadaire\DOMAINTOKEN.class
+es\eurohelp\lod\aldapa\impl\transformation\ejiecalidadaire\EUSPLACEURI.class
+es\eurohelp\lod\aldapa\impl\storage\SPARQLProtocolStore.class
+es\eurohelp\lod\aldapa\impl\storage\MemoryRDFStore.class
+es\eurohelp\lod\aldapa\impl\transformation\ejiecalidadaire\NTITOKEN.class
+es\eurohelp\lod\aldapa\impl\transformation\ejiecalidadaire\EUSURI.class
+es\eurohelp\lod\aldapa\impl\storage\LocalFileStore.class
+es\eurohelp\lod\aldapa\impl\storage\GraphStoreHTTPProtocol.class
+es\eurohelp\lod\aldapa\impl\storage\MemoryRDFStore$1.class
+es\eurohelp\lod\aldapa\impl\transformation\ejiecalidadaire\EJIECalidadAireConverter.class
+es\eurohelp\lod\aldapa\impl\modification\SHACLValidator.class
+es\eurohelp\lod\aldapa\impl\storage\BlazegraphRESTStore.class

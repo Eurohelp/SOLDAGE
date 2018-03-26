@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.eurohelp.lod.aldapa.core.test.ManagerTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.347 sec

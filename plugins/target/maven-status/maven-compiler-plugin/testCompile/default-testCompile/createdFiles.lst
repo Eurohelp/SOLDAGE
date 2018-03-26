@@ -1,0 +1,6 @@
+es\eurohelp\lod\aldapa\impl\test\SHACLValidatorTest.class
+es\eurohelp\lod\aldapa\impl\test\EJIECalidadAireConverterTest.class
+es\eurohelp\lod\aldapa\impl\test\LocalFileStoreTest.class
+es\eurohelp\lod\aldapa\impl\test\SPARQLProtocolStoreTest.class
+es\eurohelp\lod\aldapa\impl\test\BlazegraphRESTStoreTest.class
+es\eurohelp\lod\aldapa\impl\test\MemoryRDFStoreTest.class
